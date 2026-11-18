@@ -1,0 +1,17 @@
+{
+  "name": "Parceiros e Suporte Easy Byz",
+  "short_name": "Parceiros e Suporte Easy Byz",
+  "description": "App Oficial EASY MENU EGN - Escola de Gastronomia e Negócios",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#424733",
+  "theme_color": "#613C26",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/easybyzcreator/imagens/449546533bebb308f4f534d5a679e9fe23b37b19/pwa%20-%20guia%20parceiros%20e%20suporte%20ebc.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "PAGINA - PARCEIROS E SUPORTE EBC - EGN",
+  "description": "Guia passo a passo oficial para alunas da EGN configurarem seus pratos, mensagens e pedidos no App EASY MENU com a Chef Gabi e EASY BYZ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
